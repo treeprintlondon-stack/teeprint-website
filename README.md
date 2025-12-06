@@ -1,2 +1,9 @@
-# teeprint-website
-TeePrint London — UK-based custom apparel brand crafting personalised sweatshirts &amp; hoodies under Stirling Apparel Ltd. https://teeprintlondon.co.uk/
+# Tee Print London
+
+TeePrint London is a UK-based custom apparel brand offering personalised sweatshirts, hoodies and branded clothing under Stirling Apparel Ltd.
+
+## Official Website
+https://teeprintlondon.co.uk/
+
+## About
+We create high-quality custom apparel with modern printing and fast UK delivery.
