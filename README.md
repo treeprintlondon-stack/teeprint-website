@@ -5,5 +5,12 @@ TeePrint London is a UK-based custom apparel brand offering personalised sweatsh
 ## Official Website
 https://teeprintlondon.co.uk/
 
+## Shop
+https://teeprintlondon.co.uk/shop/
+
+## Get A Free Quote
+https://teeprintlondon.co.uk/quote/
+
+
 ## About
 We create high-quality custom apparel with modern printing and fast UK delivery.
